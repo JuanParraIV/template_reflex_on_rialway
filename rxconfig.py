@@ -2,7 +2,7 @@ import reflex as rx
 import os
 
 # Usa manualmente el dominio público de Railway
-public_domain = "templatereflexonrialway-production.up.railway.app"
+public_domain = "reflex.jotamario.lat"
 
 
 class ReflextemplateConfig(rx.Config):
