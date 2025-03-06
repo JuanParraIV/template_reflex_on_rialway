@@ -10,7 +10,7 @@ class ReflextemplateConfig(rx.Config):
 
 
 config = ReflextemplateConfig(
-    app_name="src",
+    app_name="plantilla",
     show_built_with_reflex=True,
     telemetry_enabled=False,
     frontend_port=3000,  # default frontend port
